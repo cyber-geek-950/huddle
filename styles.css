@@ -72,7 +72,7 @@ button {
   justify-content: flex-end;
 }
 
-.social ul li a {
+.social ul li {
   color: #fff;
   border: 1px solid #fff;
   border-radius: 50%;
